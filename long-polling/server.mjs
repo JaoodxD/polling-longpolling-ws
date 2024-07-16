@@ -1,4 +1,4 @@
-import { createServer, get } from 'node:http'
+import { createServer } from 'node:http'
 import { createReadStream } from 'node:fs'
 import { join } from 'node:path'
 import { randomUUID } from 'node:crypto'
