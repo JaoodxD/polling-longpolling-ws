@@ -1,2 +1,2 @@
 # polling-longpolling-ws
-HPBN inspired comparison of polling, long polling and websockets
+HPBN inspired comparison of periodic polling, long polling and websockets
